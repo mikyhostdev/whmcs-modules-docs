@@ -36,9 +36,9 @@ This repository serves as the centralized documentation hub for all commercial W
 
 ### 🌐 Domain Registrar Modules
 
-| Module Name | Version | WHMCS Compatibility | Status | Documentation |
-| :--- | :---: | :---: | :---: | :--- |
-| *Upcoming MikyHost Registrar Modules* | — | WHMCS 8.x+ | ![Planned](https://img.shields.io/badge/Status-In_Development-0EA5E9) | [Browse Folder](./domain-registrars/README.md) |
+| Module Name | Version | WHMCS Compatibility | PHP Support | Status | Documentation |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **[Google Cloud Domains (API v1)](./domain-registrars/googlecloud/README.md)** | `v1.1.0` | WHMCS 8.x / 9.x | PHP 8.1 – 8.3 | ![Active](https://img.shields.io/badge/Status-Released-10B981) | [📖 Read Docs](./domain-registrars/googlecloud/README.md) |
 
 ---
 
