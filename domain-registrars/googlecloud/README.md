@@ -4,7 +4,7 @@
 
 # 🌐 Google Cloud Domains Registrar for WHMCS
 
-**Version:** `1.1.0` | **Author:** [MikyHost Global Cloud](https://mikyhost.com) | **Compatibility:** WHMCS 8.x / 9.x | **PHP:** 8.1 – 8.3
+**Version:** `1.0` | **Author:** [MikyHost Global Cloud](https://mikyhost.com) | **Compatibility:** WHMCS 8.x / 9.x | **PHP:** 8.1 – 8.3
 
 Automate real-time domain availability lookups, domain suggestions, 1-year registrations, billing-safe renewals, custom nameservers, child nameservers (glue records), outbound transfers, and smart WHOIS contact management directly through the official **Google Cloud Domains API v1 (`https://domains.googleapis.com/v1`)**.
 
